@@ -5,15 +5,14 @@ nav {
 
 .block {
     /* debug */
-    height: 30px;
+    min-height: 30px;
     border: 1px solid black;
 }
 
-.start {
+.color-aquagreen{
     background-color: #14957c;
 }
 
-.rounded {
-    width: 200px;
-    height: 200px;
+img {
+    border-radius: 10%;
 }
